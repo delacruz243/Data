@@ -7,4 +7,6 @@ Goes to actual site (github.com) to look for any changes you don't have
 Updates your files after you ran `git fetch` with the new changes.  
   
 ## Push your own changes
-???
+1. git add .
+2. git commit -a -m "HOW TO PUSH CHANGES"
+3. git push 
